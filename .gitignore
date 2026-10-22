@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Local databases and generated data (use synthetic data generator instead)
+*.db
+*.sqlite
+*.sqlite3
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
